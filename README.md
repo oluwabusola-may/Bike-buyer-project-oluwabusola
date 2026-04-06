@@ -43,7 +43,9 @@ After analyzing the data through pivot tables, several trends emerged:
 * **Insight:** **North America** represents the largest market share, though the **Pacific** region shows a higher percentage of "Yes" responses relative to its total sample size.
 
 ## Dashboard
-The final output of this project is an interactive Excel Dashboard that allows stakeholders to filter data by Region, Education, and Marital Status. 
+The final output of this project is an interactive Excel Dashboard that allows stakeholders to filter data by Region, Education, and Marital Status.
+
+<img width="1316" height="620" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/86f02a41-251b-465e-8817-e04d5f6f30cf" />
 
 
 ## Recommendations
