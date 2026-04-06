@@ -45,8 +45,8 @@ After analyzing the data through pivot tables, several trends emerged:
 ## Dashboard
 The final output of this project is an interactive Excel Dashboard that allows stakeholders to filter data by Region, Education, and Marital Status. 
 
-*(Optional: If you have a screenshot of your dashboard, you would place it here)*
-`![Bike Buyer Dashboard](dashboard_screenshot.png)`
+
+<img width="1366" height="768" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/d5e8b919-8f1b-4334-9d07-0c9461fb3e06" />
 
 ## Recommendations
 Based on the analysis, the following marketing strategies are recommended:
