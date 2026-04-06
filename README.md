@@ -46,8 +46,6 @@ After analyzing the data through pivot tables, several trends emerged:
 The final output of this project is an interactive Excel Dashboard that allows stakeholders to filter data by Region, Education, and Marital Status. 
 
 
-<img width="1366" height="768" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/d5e8b919-8f1b-4334-9d07-0c9461fb3e06" />
-
 ## Recommendations
 Based on the analysis, the following marketing strategies are recommended:
 - **Targeted Ads:** Focus marketing spend on middle-aged professionals in North America earning above $\$55,000$.
